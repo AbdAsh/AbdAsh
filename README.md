@@ -6,6 +6,5 @@
 - 🤔 I’m looking for help with ... life plz.
 - 💬 Ask me about ... whatever.
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/abdash/)
-- 😄 Pronouns: ... he/him.
 - ⚡ Fun fact: ... I'm losing my s*** but I learn fast so its ok.
 - 💓 Tech I'm interested in ... Flutter, Python, Automation, Blockchain, and actually sometimes anything 😅.
