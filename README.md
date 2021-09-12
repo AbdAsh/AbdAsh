@@ -1,7 +1,7 @@
 ### Well, Hello there 👋
 
-- 🔭 I’m currently working on ... getting a freakin internship.
-- 🌱 I’m currently learning ... Automation using Selenium with Python.
+- 🔭 I’m currently working on ... becoming a full stack dev.
+- 🌱 I’m currently learning ... Typscript and Automation using Selenium with Python.
 - 👯 I’m looking to collaborate on ... anything really.
 - 🤔 I’m looking for help with ... life plz.
 - 💬 Ask me about ... whatever.
