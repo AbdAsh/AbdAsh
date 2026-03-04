@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:58a6ff&height=200&section=header&text=AbdAsh&fontSize=80&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20%7C%20Full%20Stack%20Dev%20%7C%20Automation%20Junkie&descAlignY=60&descSize=18&descColor=8b949e" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:58a6ff&height=200&section=header&text=AbdAsh&fontSize=80&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Senior%20Frontend%20%26%20AI%20Engineer&descAlignY=60&descSize=18&descColor=8b949e" />
 
 <div align="center">
 
@@ -6,6 +6,7 @@
 
 <br/>
 
+<a href="https://abdash.net"><img src="https://img.shields.io/badge/abdash.net-0d1117?style=for-the-badge&logo=astro&logoColor=58a6ff" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/abdash/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=AbdAsh&label=PROFILE+VIEWS&color=58a6ff&style=for-the-badge" />
 
@@ -40,12 +41,42 @@ fun_fact: "I'm losing my s*** but I learn fast so it's ok"
 ## 🧰 Toolbox
 
 <div align="center">
+
+#### `Frontend`
+
 <table>
 <tr>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
-  <br><sub><b>Python</b></sub>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
+  <br><sub><b>Vue.js</b></sub>
 </td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
+  <br><sub><b>React</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="48" height="48" alt="Svelte" />
+  <br><sub><b>Svelte</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+  <br><sub><b>Next.js</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="48" height="48" alt="Nuxt" />
+  <br><sub><b>Nuxt</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" width="48" height="48" alt="Astro" />
+  <br><sub><b>Astro</b></sub>
+</td>
+</tr>
+</table>
+
+#### `Languages`
+
+<table>
+<tr>
 <td align="center" width="96">
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" />
   <br><sub><b>TypeScript</b></sub>
@@ -55,30 +86,66 @@ fun_fact: "I'm losing my s*** but I learn fast so it's ok"
   <br><sub><b>JavaScript</b></sub>
 </td>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
-  <br><sub><b>React</b></sub>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+  <br><sub><b>Python</b></sub>
 </td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Java" />
+  <br><sub><b>Java</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C/C++" />
+  <br><sub><b>C/C++</b></sub>
+</td>
+</tr>
+</table>
+
+#### `AI / ML`
+
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://img.icons8.com/fluency/48/chatbot.png" width="48" height="48" alt="LLMs" />
+  <br><sub><b>LLMs</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://img.icons8.com/fluency/48/mind-map.png" width="48" height="48" alt="RAG" />
+  <br><sub><b>RAG</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://img.icons8.com/fluency/48/robot-2.png" width="48" height="48" alt="Agentic AI" />
+  <br><sub><b>Agentic AI</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="48" height="48" alt="Prompt Eng" />
+  <br><sub><b>Prompt Eng</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://n8n.io/favicon.ico" width="48" height="48" alt="n8n" />
+  <br><sub><b>n8n</b></sub>
+</td>
+</tr>
+</table>
+
+#### `DevOps & Backend`
+
+<table>
+<tr>
 <td align="center" width="96">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
   <br><sub><b>Docker</b></sub>
 </td>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
-  <br><sub><b>GitHub</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
-  <br><sub><b>Flutter</b></sub>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub Actions" />
+  <br><sub><b>Actions</b></sub>
 </td>
 <td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
-  <br><sub><b>Dart</b></sub>
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48" alt="Nginx" />
+  <br><sub><b>Nginx</b></sub>
 </td>
 <td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="48" height="48" alt="Selenium" />
-  <br><sub><b>Selenium</b></sub>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48" height="48" alt="Supabase" />
+  <br><sub><b>Supabase</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
@@ -88,12 +155,28 @@ fun_fact: "I'm losing my s*** but I learn fast so it's ok"
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
   <br><sub><b>Linux</b></sub>
 </td>
+</tr>
+</table>
+
+#### `Mobile`
+
+<table>
+<tr>
 <td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
-  <br><sub><b>VS Code</b></sub>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React Native" />
+  <br><sub><b>React Native</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
+  <br><sub><b>Flutter</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
+  <br><sub><b>Dart</b></sub>
 </td>
 </tr>
 </table>
+
 </div>
 
 ---
@@ -114,7 +197,7 @@ fun_fact: "I'm losing my s*** but I learn fast so it's ok"
 <br/>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdAsh&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=161b22&area=true&hide_border=true" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdAsh&theme=github_dark" />
 </div>
 
 ---
