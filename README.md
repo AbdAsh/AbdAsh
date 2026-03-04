@@ -24,7 +24,7 @@
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-## &nbsp;🧬 `> whoami`
+### &nbsp;🧬 `> whoami`
 
 ```yaml
 name: AbdAsh
